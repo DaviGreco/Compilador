@@ -1,8 +1,10 @@
 int main() {
-    int soma = 0;
+    int soma = "";
     float valor = 3.14; // Define um valor flutuante
     
     if (soma == 0) {
+        float h = ""
+        int soma = 0;
         return 1;
     }
     
